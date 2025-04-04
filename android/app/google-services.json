@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851488832412",
+    "project_id": "androidimagetotext",
+    "storage_bucket": "androidimagetotext.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851488832412:android:04407210cf09ee23732659",
+        "android_client_info": {
+          "package_name": "com.example.hw_androidimagetotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyhlMIN6XD4ziMR_LhTQ2XG-ST89BNhPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
